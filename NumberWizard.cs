@@ -1,8 +1,8 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-using UnityEngine.EventSystems; // Handles the button press issue.
+using UnityEngine.EventSystems; // Namespace used to handle the button press issue.
 
 public class NumberWizard : MonoBehaviour
 {
